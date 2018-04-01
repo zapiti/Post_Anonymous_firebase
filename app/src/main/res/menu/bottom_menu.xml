@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottom_action_map"
+        android:icon="@drawable/ic_mapa"
+        android:title="@string/bottom_maps_text" />
+    <item
+        android:id="@+id/bottom_action_news"
+        android:icon="@drawable/ic_news"
+        android:title="@string/attestant_btn_frag" />
+    <item
+        android:id="@+id/bottom_action_report"
+        android:icon="@drawable/ic_report"
+
+        android:title="@string/bottom_report_text" />
+</menu>

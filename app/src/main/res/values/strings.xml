@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Safe People</string>
+
+    <!--Area MainActivity -->
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Account Settings</string>
+    <string name="bottom_maps_text">Mapa</string>
+    <string name="bottom_news_text">Noticias</string>
+    <string name="bottom_report_text">Denuncie-Aqui</string>
+    <string name="main_page_title">Main Page</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--Area SetupActivity -->
+    <string name="setup_save_btn">Save Account Settings</string>
+    <string name="setup_btn_name_text">Save Account Settings</string>
+    <string name="account_setup_title">Account Setup</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="image_upload_message">The Image is Uploaded</string>
+    <string name="image_error">(Image error):</string>
+
+    <!--Area NewPostActivity -->
+    <string name="attestant_page_title">Post Page</string>
+    <string name="description_hint">Descreva o assedio ocorrido:</string>
+    <string name="setup_name_hint">Seu Nome de Usuario</string>
+    <string name="add_report_btn">Denunciar</string>
+    <string name="newpost_unble_to_trace">Unble to Trace your location</string>
+    <string name="newpost_on_gps_msg">Please Turn ON your GPS Connection</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="enter_event_location_hint">Digite o local do acontecimento</string>
+    <string name="pick_up_current_location_btn">Pegar localizaçao atual,clicle aqui!</string>
+    <string name="blog_list_address_textview">address</string>
+    <string name="add_photo_local_textView">Adicione uma foto do local ou do ocorrido se quiser clicando aqui:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="attestant_btn_frag">Denuncias</string>
+    <string name="related_drawer_description">Relacionados</string>
+    <string name="places_to_avoid_title">LOCAIS A SER EVITADOS</string>
+    <string name="help_title">AJUDA</string>
+    <string name="info_title">INFORMAÇOES</string>
+    <string name="support_title">BLOGS DE APOIO</string>
+    <string name="protect_title">COMO SE PROTEGER</string>
+    <string name="specialist_title">DEFINIÇAO DE ESPECIALISTA</string>
+    <string name="prevention_title">TECNICAS DE PREVENÇAO</string>
+    <string name="news_drawer_description">Noticias</string>
+    <string name="related_news_title">NOTICIAS RELACIONADAS</string>
+    <string name="social_media_title">MIDIAS SOCIAIS</string>
+    <string name="declaration_drawer_description">Declaraçoes</string>
+    <string name="about_us_title">SOBRE NOS</string>
+    <string name="inspiration_title">INSPIRAÇOES</string>
+    <string name="mussum_ipsum">Mussum Ipsum, cacilds vidis litro abertis. Delegadis gente finis, bibendum egestas augue arcu ut est. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Suco de cevadiss deixa as pessoas mais interessantis. Atirei o pau no gatis, per gatis num morreus. Paisis, filhis, espiritis santis. Viva Forevis aptent taciti sociosqu ad litora torquent. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Detraxit consequat et quo num tendi nada. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Sapien in monti palavris qui num significa nadis i pareci latim. Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Manduma pindureta quium dia nois paga. Pra lá , depois divoltis porris, paradis. Aenean aliquam molestie leo, vitae iaculis nisl. Diuretics paradis num copo é motivis de denguis. Casamentiss faiz malandris se pirulitá. Interagi no mé, cursus quis, vehicula ac nisi.</string>
+    <string name="body_builder_ipsun">AHHHHHHHHHHHHHHHHHHHHHH..., porra! Birl! Ajuda o maluco que tá doente. Sai de casa comi pra caralho porra. É nóis caraio é trapezera buscando caraio! Ele tá olhando pra gente. Vai subir árvore é o caralho porra! Sai filho da puta! Ele tá olhando pra gente. Ajuda o maluco que tá doente. É verão o ano todo vem cumpadi. Vai subir árvore é o caralho porra! Sai de casa comi pra caralho porra. Sai filho da puta! Que não vai dá rapaiz, não vai dá essa porra. Boraaa, Hora do Show Porra. Que não vai dá rapaiz, não vai dá essa porra. Eu quero esse 13 daqui a pouquinho aí. Eita porra!, tá saindo da jaula o monstro! Aqui nóis constrói fibra, não é água com músculo. É 37 anos caralho! Vamo monstro! Sabe o que é isso daí? Trapézio descendente é o nome disso aí. Eita porra!, tá saindo da jaula o monstro! Bora caralho, você quer ver essa porra velho. Vem porra! Sai de casa comi pra caralho porra. É esse que a gente quer, é ele que nóis vamo buscar. Ele tá olhando pra gente. AHHHHHHHHHHHHHHHHHHHHHH..., porra! Sai filho da puta! É esse que a gente quer, é ele que nóis vamo buscar.</string>
+    <string name="post_was_added">Post was added</string>
+
+
+</resources>
